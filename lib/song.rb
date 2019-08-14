@@ -12,6 +12,4 @@ class Song
     @@all
   end
 
-  def name
-
 end
