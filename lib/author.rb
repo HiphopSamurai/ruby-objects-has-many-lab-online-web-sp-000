@@ -9,4 +9,8 @@ class Author
   def posts
     ####
   end
+
+  def add_post
+    ####
+  end
 end
